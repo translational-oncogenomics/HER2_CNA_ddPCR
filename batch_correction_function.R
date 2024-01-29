@@ -1,7 +1,7 @@
 # ----------------------------------------------------------------------------------
 # Title: Batch Correction function for HER2 CN RNA Seq Data
 # Author: Hina Dalal
-# Date of Analysis: 2024-01-29  
+# Date of Analysis: 2023-09-04
 # Replace with `Sys.Date()` for the current date
 # Description: Gene expression values will be normalized to reference batch (refbatch) by mean centering of log2 transformed TPM GEX matrix
 # to derive gene specific mean differences between library protocols. The calculated differences (scaling.factors) were used as correction factor 
