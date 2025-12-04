@@ -26,4 +26,4 @@ To use the function, ensure that your gene expression matrix (`gex_mat`) has gen
 
 ### Example
 ```R
-# erbb2_adj <- adjustmean.ref(log2(TPM_mat+0.1), clinical_df$Protocol, "dUTP")
+# erbb2_adj <- adjustmean.ref(log2(TPM_mat+0.1), clinical_df$Protocol, "dUTP") 
